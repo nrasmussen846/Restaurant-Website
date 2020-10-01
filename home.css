@@ -1,0 +1,22 @@
+div{
+  background-color: #52b545;
+  height: 100%;
+}
+
+img{
+  height: 480px;
+  width: 640px;
+}
+
+h1{
+  font-family: monospace;
+  font-style: oblique;
+  font-size: 30px;
+  color: #164d0b;
+  padding-bottom: 30px;
+}
+
+hr{
+border-color: black;
+width: 100%;
+}
